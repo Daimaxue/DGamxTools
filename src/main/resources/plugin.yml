@@ -1,0 +1,16 @@
+name: DGamxTools
+version: '${project.version}'
+main: com.daimaxue.dgamxtools.DGamxTools
+api-version: '1.20'
+author: Daimaxue
+commands:
+  Gamemode:
+    aliases: gm
+    permission: DGamxTools.Administrator
+  Fly:
+
+
+
+
+
+
